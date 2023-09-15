@@ -1,0 +1,14 @@
+.social-icons {
+    text-align: center;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 50px;
+    text-decoration: none;
+}
+
+.social-icons img {
+    width: 100px; /* Ancho de los íconos */
+    height: auto;
+}
